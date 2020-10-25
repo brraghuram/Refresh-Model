@@ -1,6 +1,6 @@
 # Refresh-Model
 
 Contains
-Stream view datset
-Assessment dataset
+Stream view datset,
+Assessment dataset,
 Pulse scores dataset
